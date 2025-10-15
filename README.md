@@ -7,4 +7,4 @@ A list of awesome ATProtocol resources.
 
 
 ## Utilities
-* [handy online tools for AT Protocol](https://boat.kelinci.net)
+* [boat - handy online tools for AT Protocol](https://boat.kelinci.net)
