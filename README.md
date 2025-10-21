@@ -6,6 +6,10 @@ A list of awesome ATProtocol resources.
 * [Official page](https://atproto.com)
 
 
+## Theory
+* [Open Socia](https://overreacted.io/open-social/)
+
+  
 ## Utilities
 * [boat - handy online tools for AT Protocol](https://boat.kelinci.net)
 
