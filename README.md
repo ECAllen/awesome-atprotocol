@@ -7,7 +7,7 @@ A list of awesome ATProtocol resources.
 
 
 ## Theory
-* [Open Socia](https://overreacted.io/open-social/)
+* [Open Social](https://overreacted.io/open-social/)
 
   
 ## Utilities
